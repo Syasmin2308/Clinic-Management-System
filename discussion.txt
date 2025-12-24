@@ -1,0 +1,84 @@
+Database Name: ricomtrx_db2624st1g10
+Database Username: ricomtrx_db2624st1g10 
+Database password: db2624st1g10#VhE@386.88
+
+Database Table: Patients
+Column:
+patientID - input type: text, required
+fullName - input type: text, required
+ICNo - input type: text, required
+gender - input type: radio button, value: M/F. Label: Male, Female. required
+dateOfBirth - input type: date, required
+bloodType - input type: select(A+, A-, B+, etc.), required
+allergies - input type: text, required
+contactNo - input type: tel, required
+email - input type: email, required
+addressLine1 - input type: text, required
+addressLine2 - input type: text, required
+city - input type: text, required
+postcode - input type: text, required
+emergencyContactName - input type: text, required
+emergencyContactNo - input type: tel, required
+
+ADD 
+1. Create a PHP file name: student.php to input a data into MySQL.
+Use the following parameter:
+
+Database Name: ricomtrx_db2624st1g10
+Database Username: ricomtrx_db2624st1g10 
+Database password: db2624st1g10#VhE@386.88
+
+Database Table: Patients
+Column:
+patientID - input type: text, required
+fullName - input type: text, required
+ICNo - input type: text, required
+gender - input type: radio button, value: M/F. Label: Male, Female. required
+dateOfBirth - input type: date, required
+bloodType - input type: select(A+, A-, B+, etc.), required
+allergies - input type: text, required
+contactNo - input type: tel, required
+email - input type: email, required
+addressLine1 - input type: text, required
+addressLine2 - input type: text, required
+city - input type: text, required
+postcode - input type: text, required
+emergencyContactName - input type: text, required
+emergencyContactNo - input type: tel, required
+
+Use Bootstrap 5 Dashboard Layout with the following parameter. 
+
+1. headers
+2. sidebar with the following menu: Patients - Link to patientList.php. Staff - Link to staffList.php
+
+View
+1. Create a PHP file name: patientView.php to display a data.
+Use the following parameter:
+
+Database Name: ricomtrx_db2624st1g10
+Database Username: ricomtrx_db2624st1g10 
+Database password: db2624st1g10#VhE@386.88
+
+Database Table: Patients
+Column:
+patientID - input type: text, required
+fullName - input type: text, required
+ICNo - input type: text, required
+gender - input type: radio button, value: M/F. Label: Male, Female. required
+dateOfBirth - input type: date, required
+bloodType - input type: select(A+, A-, B+, etc.), required
+allergies - input type: text, required
+contactNo - input type: tel, required
+email - input type: email, required
+addressLine1 - input type: text, required
+addressLine2 - input type: text, required
+city - input type: text, required
+postcode - input type: text, required
+emergencyContactName - input type: text, required
+emergencyContactNo - input type: tel, required
+
+Use Bootstrap 5 Dashboard Layout with the following parameter. 
+
+1. headers
+2. sidebar with the following menu: Patients - Link to patientList.php. Staff - Link to staffList.php
+
